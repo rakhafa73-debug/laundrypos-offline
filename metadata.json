@@ -1,0 +1,6 @@
+{
+  "name": "LaundryPOS Offline",
+  "description": "Sistem POS dan manajemen laundry kiloan offline-first untuk jaringan lokal toko dengan multi-kasir, printer thermal 58mm/80mm, dan database SQLite lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

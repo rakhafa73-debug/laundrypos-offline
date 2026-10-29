@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "LaundryPOS Offline — Kasir Laundry Kiloan",
+  "short_name": "LaundryPOS",
+  "description": "Sistem POS dan manajemen laundry kiloan offline-first untuk jaringan lokal toko.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fafaf8",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
